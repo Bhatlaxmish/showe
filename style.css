@@ -341,6 +341,9 @@ display:none;
 		 padding-right:4rem;
 		 margin:2rem;
 	} 
+	.shoes{
+	position: relative;
+	margin:4rem;
 
 .fr-container{
 	display: flex;
