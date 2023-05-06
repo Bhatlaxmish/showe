@@ -118,6 +118,7 @@ header{
 }
 .shoes{
 	position: relative;
+	margin:2rem;
 	
 }
 .shoes img{
